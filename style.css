@@ -96,3 +96,190 @@ button:hover{
 }
 .dropdown a:hover {background-color: #ddd;}
 .show {display: block;}
+
+/*------------ MAIN CONTENT -------------*/
+
+#Preface{
+  font-family: 'Jim Nightshade', cursive;
+  font-size: 4em;
+  margin: 2px 0px 4px 0px;
+  margin-left: 10%;
+  color: #ff9900;
+}
+#prefp{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+
+#Chroniques{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 4em;
+  margin: 2px 0px 4px 0px;
+  margin-left: 10%;
+  color: #ff9900;
+}
+#chrod1{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+#chrod1 legend{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+#chrod2{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+#chrod2 legend{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+#chrod3{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+#chrod3 legend{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+#chrod4{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+#chrod4 legend{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+#chrod5{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+#chrod5 legend{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+#chrod6{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+#chrod6 legend{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+#chrod7{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+#chrod7 legend{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+#chrod8{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+#chrod8 legend{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+#chrod9{
+  font-family: 'Vollkorn', serif;
+  margin: 0px 20% 60px 20%;
+}
+#chrod9 legend{
+  font-family: 'Fondamento', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+
+
+
+#Talmud{
+  font-family: 'Uncial Antiqua', cursive;
+  font-size: 4em;
+  margin: 2px 0px 4px 0px;
+  margin-left: 10%;
+  color: #ff9900;
+}
+#tald1{
+  font-family: 'Philosopher', sans-serif;
+  margin: 0px 20% 60px 20%;
+}
+#tald1 h1{
+  font-family: 'Merienda One', cursive;
+  text-align: center;
+  color: #ff6600;
+}
+#tald1 legend{
+  font-family: 'Merienda', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+
+#tald2{
+  font-family: 'Philosopher', sans-serif;
+  margin: 0px 20% 60px 20%;
+}
+#tald2 legend{
+  font-family: 'Merienda', cursive;
+  text-align: center;
+  color: #cc3300;
+  font-size: 1.5em;
+}
+
+
+#Divers{
+  font-family: 'Girassol', cursive;
+  font-size: 4em;
+  margin: 2px 0px 4px 0px;
+  margin-left: 10%;
+  color: #009900;
+}
+#div1{
+  font-family: 'Taviraj', serif;
+  margin: 0px 20% 60px 20%;
+}
+#div1 legend{
+  font-family: 'Rancho', cursive;
+  text-align: center;
+  color: #0099cc;
+  font-size: 1.5em;
+}
+#div2{
+  font-family: 'Taviraj', serif;
+  margin: 0px 20% 60px 20%;
+}
+#div2 legend{
+  font-family: 'Rancho', cursive;
+  text-align: center;
+  color: #0099cc;
+  font-size: 1.5em;
+}
+
+
+/*--------------FOOTER------------ */
+#sticky-footer {
+  background-color: black;
+  padding: 4px 0px 4px 0px;
+}
+.text-center{
+  padding-left: 35%;
+}
